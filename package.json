@@ -1,0 +1,24 @@
+{
+  "name": "adventofcode",
+  "version": "1.0.0",
+  "description": "Advent of Code is an Advent calendar of small programming puzzles for a variety of skill sets and skill levels that can be solved in any programming language you like.",
+  "main": "day1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RyanDBarnett/AdventOfCode.git"
+  },
+  "keywords": [
+    "Elves",
+    "Santa",
+    "Space"
+  ],
+  "author": "Ryan Barnett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RyanDBarnett/AdventOfCode/issues"
+  },
+  "homepage": "https://github.com/RyanDBarnett/AdventOfCode#readme"
+}
